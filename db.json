@@ -1,10 +1,11 @@
-[ 
-   {
-    "nomUsuario": "ebert",
-    "contraseña": "12345",
-    "nombres": "Ebert Guaranga",
-    "img": "https://eststatic.com/2676/conversions/malas-personas-default.jpg",
-    "opciones": [
+{
+   "Usuarios":[ 
+       {
+           "nomUsuario": "ebert",
+           "contraseña": "12345",
+           "nombres": "Ebert Guaranga",
+           "img": "https://eststatic.com/2676/conversions/malas-personas-default.jpg",
+              "opciones": [
       {
         "opt": "Ver Publicaciones"
       },
@@ -66,3 +67,4 @@
     "rol": "user"
   }
 ]
+}
